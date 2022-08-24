@@ -24,7 +24,10 @@ I am currently an architect at ServiceNow, but will soon be moving on to another
 - 👨🏽‍💻 Trying to sell my DBaaS [mongrel.app](https:mongrel.app). If that does not work I will be open sourcing it
 - 🧠 Learning as much as I can about DAOs. I think it is the most powerful use case for cryptocurrency.
 - 🌱 Also, learning how to build Visual Studio Code extensions. I have an idea that I cannot wait to share.
-- 📖 Lastly, I'm almost finished [Meditations](https://read.amazon.com/kp/embed?asin=B000FC1JAI&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_GMS05HV9641QXKDJ37QG)
+
+📖 What I am reading
+
+- Almost finished [Meditations](https://read.amazon.com/kp/embed?asin=B000FC1JAI&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_GMS05HV9641QXKDJ37QG)
 
 
 #### Bio
@@ -32,8 +35,6 @@ I am currently an architect at ServiceNow, but will soon be moving on to another
 Transition to all my work to be open source.
 
 Former soccer player, do not have much of an online presence but looking to chagne that as I plan to focus on open source projects. I hate hustle culter and do not see anything wrong with a 9-5. My work is extremely fulfilling, balanced and not looking to create the next facebook.
-
-- 📫 dm me on twitter @antoneking or linkedin /in/tone-king
 
 #### Tech stack
 
@@ -49,5 +50,10 @@ Former soccer player, do not have much of an online presence but looking to chag
 | Cloud Storage | GDrive |
 | Calendar | Fantastical |
 | Task manager | Todoist |
+
+
+#### Contact
+
+ 📫 dm me on twitter @antoneking or linkedin /in/tone-king(https://www.linkedin.com/in/tone-king)
 
 
