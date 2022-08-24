@@ -33,18 +33,18 @@ Transition to all my work to be open source.
 
 Former soccer player, do not have much of an online presence but looking to chagne that as I plan to focus on open source projects. I hate hustle culter and do not see anything wrong with a 9-5. My work is extremely fulfilling, balanced and not looking to create the next facebook.
 
-- 📫 How to reach me: dm me on twitter @antoneking
+- 📫 dm me on twitter @antoneking
 
 #### Tech stack
 
-**Operating System** :: OSX & Ubuntu
-
-**Terminal** :: iTerm2
-
-**Editor** :: Nvim && VS Code
-
-**Note taking and information capture** :: Gingko (long form), Apple notes (mobile), earaser (technical docs)
-
-**Email** :: Spark
+|   |   |   
+|---|---|---|
+| Operating system  | Mac & Unbuntu  |  
+| Terminal  | iTerm2  |  
+| Editor  | Nvim & VSCode  |
+| Creative writing | [Gingko](https://gingkowriter.com/)|
+| Zettelkasten | [vimwiki](https://vimwiki.github.io/) and Note cards |
+| Work log | Drafts |
+| Tech docs | [earaser](https://app.tryeraser.com/) |
 
 
