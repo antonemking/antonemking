@@ -20,6 +20,7 @@ I am currently an architect at ServiceNow, but will soon be moving on to another
 
 #### What am I up to?
 
+- 👨🏾‍🎓 Working on my masters at [Tufts](tufts.edu)
 - 👨🏽‍💻 Trying to sell my DBaaS [mongrel.app](https:mongrel.app). If that does not work I will be open sourcing it
 - 🧠 Learning as much as I can about DAOs. I think it is the most powerful use case for cryptocurrency.
 - 🌱 Also, learning how to build Visual Studio Code extensions. I have an idea that I cannot wait to share.
@@ -28,16 +29,22 @@ I am currently an architect at ServiceNow, but will soon be moving on to another
 
 #### Bio
 
+Transition to all my work to be open source.
+
 Former soccer player, do not have much of an online presence but looking to chagne that as I plan to focus on open source projects. I hate hustle culter and do not see anything wrong with a 9-5. My work is extremely fulfilling, balanced and not looking to create the next facebook.
 
 - 📫 How to reach me: dm me on twitter @antoneking
 
 #### Tech stack
 
-***Operating System*** :: OSX & Ubuntu
+**Operating System** :: OSX & Ubuntu
 
-***Terminal*** :: iTerm2
+**Terminal** :: iTerm2
 
-***Editor** :: Nvim && VS Code
+**Editor** :: Nvim && VS Code
 
-***Note taking and information capture*** :: Gingko (long form), Apple notes (mobile), earser (technical docs)
+**Note taking and information capture** :: Gingko (long form), Apple notes (mobile), earaser (technical docs)
+
+**Email** :: Spark
+
+
