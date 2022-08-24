@@ -35,6 +35,9 @@ Former soccer player, do not have much of an online presence but looking to chag
 #### Tech stack
 
 ***Operating System*** :: OSX & Ubuntu
+
 ***Terminal*** :: iTerm2
+
 ***Editor** :: Nvim && VS Code
+
 ***Note taking and information capture*** :: Gingko (long form), Apple notes (mobile), earser (technical docs)
