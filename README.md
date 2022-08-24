@@ -44,7 +44,7 @@ Former soccer player, do not have much of an online presence but looking to chag
 | Terminal  | iTerm2  |  
 | Editor  | Nvim & VSCode  |
 | Creative writing | [Gingko](https://gingkowriter.com/)|
-| Zettelkasten | [vimwiki](https://vimwiki.github.io/) and Note cards |
+| [Zettelkasten](https://github.com/antonemking/Zettelkasten) | [vimwiki](https://vimwiki.github.io/) and Note cards |
 | Work log | Drafts |
 | Tech docs | [earaser](https://app.tryeraser.com/) |
 | Cloud Storage | GDrive |
