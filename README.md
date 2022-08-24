@@ -33,7 +33,7 @@ Transition to all my work to be open source.
 
 Former soccer player, do not have much of an online presence but looking to chagne that as I plan to focus on open source projects. I hate hustle culter and do not see anything wrong with a 9-5. My work is extremely fulfilling, balanced and not looking to create the next facebook.
 
-- 📫 dm me on twitter @antoneking
+- 📫 dm me on twitter @antoneking or linkedin /in/tone-king
 
 #### Tech stack
 
@@ -46,5 +46,8 @@ Former soccer player, do not have much of an online presence but looking to chag
 | Zettelkasten | [vimwiki](https://vimwiki.github.io/) and Note cards |
 | Work log | Drafts |
 | Tech docs | [earaser](https://app.tryeraser.com/) |
+| Cloud Storage | GDrive |
+| Calendar | Fantastical |
+| Task manager | Todoist |
 
 
