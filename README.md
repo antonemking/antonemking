@@ -54,6 +54,6 @@ Former soccer player, do not have much of an online presence but looking to chag
 
 #### Contact
 
- 📫 dm me on twitter @antoneking or linkedin [/in/tone-king](https://www.linkedin.com/in/tone-king)
+ 📫 dm me on twitter [@antoneking](https://twitter.com/antoneking) or linkedin [/in/tone-king](https://www.linkedin.com/in/tone-king)
 
 
