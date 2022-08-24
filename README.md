@@ -32,7 +32,7 @@ I am currently an architect at ServiceNow, but will soon be moving on to another
 
 #### Bio
 
-Transition to all my work to be open source.
+My 🧠 is super squirly (ADHD) so my repos will be all over the place and likely contain dead projects or projects that have a README with just a title 🙃
 
 Former soccer player, do not have much of an online presence but looking to chagne that as I plan to focus on open source projects. I hate hustle culter and do not see anything wrong with a 9-5. My work is extremely fulfilling, balanced and not looking to create the next facebook.
 
@@ -54,6 +54,6 @@ Former soccer player, do not have much of an online presence but looking to chag
 
 #### Contact
 
- 📫 dm me on twitter @antoneking or linkedin /in/tone-king(https://www.linkedin.com/in/tone-king)
+ 📫 dm me on twitter @antoneking or linkedin [/in/tone-king](https://www.linkedin.com/in/tone-king)
 
 
