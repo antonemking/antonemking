@@ -46,7 +46,7 @@ Former soccer player, do not have much of an online presence but looking to chag
 | Creative writing | [Gingko](https://gingkowriter.com/)|
 | [Zettelkasten](https://github.com/antonemking/Zettelkasten) | [vimwiki](https://vimwiki.github.io/) and Note cards |
 | Work log | Drafts |
-| Tech docs | [earaser](https://app.tryeraser.com/) |
+| Tech docs | [Eraser](https://app.tryeraser.com/) |
 | Cloud Storage | GDrive |
 | Calendar | Fantastical |
 | Task manager | Todoist |
