@@ -38,7 +38,7 @@ Former soccer player, do not have much of an online presence but looking to chag
 #### Tech stack
 
 |   |   |   
-|---|---|---|
+|---|---|
 | Operating system  | Mac & Unbuntu  |  
 | Terminal  | iTerm2  |  
 | Editor  | Nvim & VSCode  |
