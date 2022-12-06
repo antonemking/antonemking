@@ -21,13 +21,14 @@ I am currently an architect at ServiceNow, but will soon be moving on to another
 #### What am I up to?
 
 - 👨🏾‍🎓 Working on my masters at [Tufts](tufts.edu)
-- 👨🏽‍💻 Trying to sell my DBaaS [mongrel.app](https:mongrel.app). If that does not work I will be open sourcing it
-- 🧠 Learning as much as I can about DAOs. I think it is the most powerful use case for cryptocurrency.
+- 👨🏽‍💻 Writing an e-book
+- 🧠 Self-learning cryptography, batteries, bushcraft 
 - 🌱 Also, learning how to build Visual Studio Code extensions. I have an idea that I cannot wait to share.
 
 📖 What I am reading
 
-- Almost finished [Meditations](https://read.amazon.com/kp/embed?asin=B000FC1JAI&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_GMS05HV9641QXKDJ37QG)
+- ~~[Meditations](https://read.amazon.com/kp/embed?asin=B000FC1JAI&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_GMS05HV9641QXKDJ37QG)~~
+- American Kingpin - Nick Boltom
 
 
 #### Bio
