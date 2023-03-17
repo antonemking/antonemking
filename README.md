@@ -15,42 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently an architect at ServiceNow, but will soon be moving on to another opportunity 😀
+I am currently a Sr. Application Engineer at Zoox and we are building a bi-directional transportation robot.
 
 
 #### What am I up to?
 
-- 👨🏾‍🎓 Working on my masters at [Tufts](tufts.edu)
+- 🏾‍🔭 Working on my masters at [Tufts](tufts.edu)
 - 👨🏽‍💻 Writing an e-book
-- 🧠 Self-learning cryptography, batteries, bushcraft 
-- 🌱 Also, learning how to build Visual Studio Code extensions. I have an idea that I cannot wait to share.
+- 🌱 Self-learning IoT, Building a Koi Pond, bushcraft 
 
 📖 What I am reading
 
 - ~~[Meditations](https://read.amazon.com/kp/embed?asin=B000FC1JAI&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_GMS05HV9641QXKDJ37QG)~~
-- American Kingpin - Nick Boltom
+- The Lean Startup - Eric Ries
 
 
 #### Bio
 
-My 🧠 is super squirly (ADHD) so my repos will be all over the place and likely contain dead projects or projects that have a README with just a title 🙃
-
-Former soccer player, do not have much of an online presence but looking to chagne that as I plan to focus on open source projects. I hate hustle culter and do not see anything wrong with a 9-5. My work is extremely fulfilling, balanced and not looking to create the next facebook.
+Former soccer player, do not have much of an online presence but looking to chagne that as I plan to focus on open source projects. I hate hustle culture and do not see anything wrong with a 9-5. My work is extremely fulfilling, balanced and not looking to create the next facebook.
 
 #### Tech stack
 
 |   |   |   
 |---|---|
 | Operating system  | Mac & Unbuntu  |  
-| Terminal  | iTerm2  |  
-| Editor  | Nvim & VSCode  |
-| Creative writing | [Gingko](https://gingkowriter.com/)|
-| [Zettelkasten](https://github.com/antonemking/Zettelkasten) | [vimwiki](https://vimwiki.github.io/) and Note cards |
-| Work log | Drafts |
-| Tech docs | [Eraser](https://app.tryeraser.com/) |
+| Work log | Obsidian |
 | Cloud Storage | GDrive |
-| Calendar | Fantastical |
-| Task manager | Todoist |
+| Calendar | iCal |
+| Task manager | Analog Notebook |
 
 
 #### Contact
