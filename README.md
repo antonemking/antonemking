@@ -20,7 +20,8 @@ I am currently a Sr. Application Engineer at Zoox and we are building a bi-direc
 
 #### What am I up to?
 
-- 🏾‍🔭 Working on my masters at [Tufts](tufts.edu)
+- 🔭 Working on my masters at [Tufts](tufts.edu)
+- 🔭 [30-Day Writing Challenge](https://github.com/antonemking/30-day-challenge)
 - 👨🏽‍💻 Writing an e-book
 - 🌱 Self-learning IoT, Building a Koi Pond, bushcraft 
 
