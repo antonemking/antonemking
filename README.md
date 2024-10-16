@@ -35,17 +35,7 @@ I am currently a Sr. Application Engineer at Zoox and we are building a bi-direc
 
 #### Bio
 
-Former soccer player, do not have much of an online presence but looking to change that as I plan to focus on open source projects.
-
-#### Tech stack
-
-|   |   |   
-|---|---|
-| Operating system  | Mac & Unbuntu  |  
-| Work log | Obsidian |
-| Cloud Storage | GDrive |
-| Calendar | iCal |
-| Task manager | Analog Notebook |
+Husband, Father, Rancher
 
 
 #### Contact
