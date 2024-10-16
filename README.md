@@ -23,17 +23,19 @@ I am currently a Sr. Application Engineer at Zoox and we are building a bi-direc
 - 🔭 Working on my masters at [Tufts](tufts.edu)
 - 🔭 [30-Day Writing Challenge](https://github.com/antonemking/30-day-challenge)
 - 👨🏽‍💻 Writing an e-book
-- 🌱 Self-learning IoT, Building a Koi Pond, bushcraft 
+- 🌱 Self-learning IoT, Building a cabin with hand tools
 
 📖 What I am reading
 
 - ~~[Meditations](https://read.amazon.com/kp/embed?asin=B000FC1JAI&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_GMS05HV9641QXKDJ37QG)~~
-- The Lean Startup - Eric Ries
+- ~~The Lean Startup - Eric Ries~~
+- How to Manage your Woods
+- Phillip and Alexander
 
 
 #### Bio
 
-Former soccer player, do not have much of an online presence but looking to chagne that as I plan to focus on open source projects. I hate hustle culture and do not see anything wrong with a 9-5. My work is extremely fulfilling, balanced and not looking to create the next facebook.
+Former soccer player, do not have much of an online presence but looking to change that as I plan to focus on open source projects.
 
 #### Tech stack
 
