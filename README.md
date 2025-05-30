@@ -10,16 +10,14 @@ I’m currently a Generative AI Architect at ServiceNow.
 - 🐐 Building **Capra10k** — an open-source goat detection dataset & crowd-sourced labeling tool  
 - 🚜 Developing agricultural AI tools that bridge farming and technology
 
----
 
 ## 📖 What I'm Reading
 
-- *Meditations* – Marcus Aurelius  
-- *The Lean Startup* – Eric Ries  
+- ~~*Meditations* – Marcus Aurelius~~  
+- ~~*The Lean Startup* – Eric Ries~~ 
 - *How to Manage Your Woods* – Steve Hilts  
 - *Philip and Alexander* – Adrian Goldsworthy
 
----
 
 ## 🧬 Bio
 
