@@ -5,7 +5,6 @@ I am currently a Gen AI Architect at ServiceNow.
 🔭 Half way through my masters at Tufts (on leave of abscence after buying a farm)
 🐐 Building **Capra10k** - an open-source goat detection dataset & crowd-sourced labeling tool  
 🚜 Developing agricultural AI tools that bridge farming and technology   
- 
 📖 What I am reading
 - ~~Meditations~~
 - ~~The Lean Startup - Eric Ries~~
